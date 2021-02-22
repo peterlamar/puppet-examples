@@ -18,3 +18,5 @@ class ntpdemo {
   }
 
 }
+
+include ntpdemo
